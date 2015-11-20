@@ -1,7 +1,7 @@
 # ElaConf2015
 Slides &amp; Handouts from my ElaConf Talk
 
-### Slides: 
+### Slides
 
 PDF coming soon!
 
@@ -30,7 +30,7 @@ List of questions I generally ask organizers
 20. What's the aspect ratio of the projector and display?
 21. Will you collect feedback or should I arrange for it?
 
-Glossary:
+######Glossary
 
 Confidence Monitor: On-stage monitor placed on stage so that the speaker can see the presentation being displayed without turning to look at the slides.
 
@@ -39,15 +39,6 @@ Lectern: Fixture or desk where speaker places her notes/laptop
 Podium: Stage or Platform
 
 Lapel mic: Hands free mic
-
-References:
-
-https://medium.com/the-rectangle-behind-you/the-rectangle-behind-you-questions-to-ask-conference-organizers-5de0c44610eb#.8qs2eljf6
-
-http://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences
-
-http://blog.sashalaundy.com/blog/2015/02/23/how-i-prep-in-the-24-hours-before-a-conference-talk/
-
 
 ### Resources
 #####Technically Speaking
@@ -80,4 +71,13 @@ http://scottberkun.com/
 
 #####TED Talks
 [TED Talks] (https://www.ted.com/talks)
+
+
+#####References
+
+https://medium.com/the-rectangle-behind-you/the-rectangle-behind-you-questions-to-ask-conference-organizers-5de0c44610eb#.8qs2eljf6
+
+http://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences
+
+http://blog.sashalaundy.com/blog/2015/02/23/how-i-prep-in-the-24-hours-before-a-conference-talk/
 
