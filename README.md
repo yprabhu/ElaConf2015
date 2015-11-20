@@ -26,10 +26,11 @@ http://femgineer.com/
 
 http://www.presentationzen.com
 
-[The Naked Presenter: Delivering Powerful Presentations With or Without Slides (Voices That Matter)] (http://www.amazon.com/The-Naked-Presenter-Delivering-Presentations/dp/0321704452)
-http://www.presentationzen.com/
-
 [Presentation Zen: Simple Ideas on Presentation Design and Delivery] (http://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0321525655)
+
+[The Naked Presenter: Delivering Powerful Presentations With or Without Slides (Voices That Matter)] (http://www.amazon.com/The-Naked-Presenter-Delivering-Presentations/dp/0321704452)
+
+
 
 #####Scott Berkun
 http://scottberkun.com/
