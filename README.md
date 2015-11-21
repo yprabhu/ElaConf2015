@@ -2,7 +2,7 @@
 Slides &amp; Handouts from my ElaConf Talk
 
 ### Slides
-PDF with image credits: https://www.dropbox.com/s/fs6zwlm1hs560w0/ElaConfNov2015_Slides_Notes.pdf?dl=0
+PDF with image credits: [Preparing for your first talk] ( https://www.dropbox.com/s/fs6zwlm1hs560w0/ElaConfNov2015_Slides_Notes.pdf?dl=0)
 
 ### Conference Questions
 List of questions I generally ask organizers
