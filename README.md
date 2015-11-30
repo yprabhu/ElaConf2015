@@ -53,7 +53,7 @@ http://femgineer.com/
 
 [Present Book: A Techie's Guide to Public Speaking] (http://femgineer.com/present-book/)
 
-#####Garr Reynolds' Prezentation Zen
+#####Garr Reynolds' Presentation Zen
 
 http://www.presentationzen.com
 
